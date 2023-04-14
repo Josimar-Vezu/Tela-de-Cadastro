@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: black;
+    border: none;
+}
+
+input,
+label {
+    display: block;
+    width: 100%;
+}
+
+input:focus,
+label:focus {
+    outline: none;
+}
+
+body {
+    background-image: url(./assets/hun\ gordao\ fight.jpg);
+    background-size: cover;
+}
